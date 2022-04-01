@@ -32,7 +32,7 @@
     "validation"
   ],
   "repository": "git://github.com/serby/validity",
-  "main": "./property-validators",
+  "main": "./index",
   "scripts": {
     "inspect": "jsinspect",
     "lint:js": "eslint . --cache --ext '.js'",
